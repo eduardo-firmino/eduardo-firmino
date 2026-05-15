@@ -90,8 +90,8 @@ Courses completed at university:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eduardo-firmino&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-firmino&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
 </p>
 
 ---
